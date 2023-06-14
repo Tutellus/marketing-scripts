@@ -7,7 +7,7 @@ function gtag() {
   dataLayer.push(arguments)
 }
 gtag("js", new Date())
-gtag("config", "GTM-TRSCXQ", {
+gtag("config", "GTM-5WTSFXC", {
   anonymize_ip: true,
   cookie_expires: 0,
   cookie_flags: "max-age=0;secure;samesite=none",
