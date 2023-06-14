@@ -1,7 +1,3 @@
-// Asegúrate de incluir el archivo JavaScript en tu archivo HTML utilizando la etiqueta <script> antes de incluir este código:
-// <script async src="https://www.googletagmanager.com/gtm.js?id=GTM-TRSCXQ&amp;gtm_cookies_win=x"></script>
-
-// gtm-script.js
 window.dataLayer = window.dataLayer || []
 function gtag() {
   dataLayer.push(arguments)
